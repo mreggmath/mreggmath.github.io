@@ -1,4 +1,8 @@
-# About Me
+---
+layout: page
+title: "About Me"
+permalink: /
+---
 
 这里是埃格先生的数学小窝, 我会在这里日常发布一些数学相关的小文章.
 
