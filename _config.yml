@@ -23,8 +23,8 @@ email: andrewhq98@163.com
 description: >- # this means to ignore newlines until "baseurl:"
 埃格先生的数学小窝, 日常学习~
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username:
+github_username: mreggmath
 
 # Build settings
 theme: minima
